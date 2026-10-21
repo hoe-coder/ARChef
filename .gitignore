@@ -130,3 +130,5 @@ InitTestScene*.unity*
 
 # macOS
 .DS_Store
+
+/Packages/com.ptc.vuforia.engine-*.tgz
