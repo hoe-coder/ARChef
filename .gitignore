@@ -108,27 +108,6 @@ InitTestScene*.unity*
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
-# Unity-generated folders
-/Library/
-/Logs/
-/UserSettings/
-/UIElementsSchema/
-/Temp/
-/Obj/
-/Build/
-/Builds/
-/MemoryCaptures/
-/Recordings/
+/Packages/com.ptc.vuforia.engine-11.4.4.tgz
 
-# Generated IDE files
-.vs/
-*.csproj
-*.sln
-*.slnx
-*.user
-*.userprefs
-
-# macOS
 .DS_Store
-
-/Packages/com.ptc.vuforia.engine-*.tgz
