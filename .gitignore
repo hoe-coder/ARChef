@@ -107,3 +107,26 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity-generated folders
+/Library/
+/Logs/
+/UserSettings/
+/UIElementsSchema/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/MemoryCaptures/
+/Recordings/
+
+# Generated IDE files
+.vs/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+
+# macOS
+.DS_Store
